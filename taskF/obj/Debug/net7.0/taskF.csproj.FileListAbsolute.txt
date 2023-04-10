@@ -1,0 +1,15 @@
+C:\Users\phili\OneDrive\Рабочий стол\GB\finalChoise\taskF\bin\Debug\net7.0\taskF.exe
+C:\Users\phili\OneDrive\Рабочий стол\GB\finalChoise\taskF\bin\Debug\net7.0\taskF.deps.json
+C:\Users\phili\OneDrive\Рабочий стол\GB\finalChoise\taskF\bin\Debug\net7.0\taskF.runtimeconfig.json
+C:\Users\phili\OneDrive\Рабочий стол\GB\finalChoise\taskF\bin\Debug\net7.0\taskF.dll
+C:\Users\phili\OneDrive\Рабочий стол\GB\finalChoise\taskF\bin\Debug\net7.0\taskF.pdb
+C:\Users\phili\OneDrive\Рабочий стол\GB\finalChoise\taskF\obj\Debug\net7.0\taskF.csproj.AssemblyReference.cache
+C:\Users\phili\OneDrive\Рабочий стол\GB\finalChoise\taskF\obj\Debug\net7.0\taskF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phili\OneDrive\Рабочий стол\GB\finalChoise\taskF\obj\Debug\net7.0\taskF.AssemblyInfoInputs.cache
+C:\Users\phili\OneDrive\Рабочий стол\GB\finalChoise\taskF\obj\Debug\net7.0\taskF.AssemblyInfo.cs
+C:\Users\phili\OneDrive\Рабочий стол\GB\finalChoise\taskF\obj\Debug\net7.0\taskF.csproj.CoreCompileInputs.cache
+C:\Users\phili\OneDrive\Рабочий стол\GB\finalChoise\taskF\obj\Debug\net7.0\taskF.dll
+C:\Users\phili\OneDrive\Рабочий стол\GB\finalChoise\taskF\obj\Debug\net7.0\refint\taskF.dll
+C:\Users\phili\OneDrive\Рабочий стол\GB\finalChoise\taskF\obj\Debug\net7.0\taskF.pdb
+C:\Users\phili\OneDrive\Рабочий стол\GB\finalChoise\taskF\obj\Debug\net7.0\taskF.genruntimeconfig.cache
+C:\Users\phili\OneDrive\Рабочий стол\GB\finalChoise\taskF\obj\Debug\net7.0\ref\taskF.dll

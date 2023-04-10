@@ -2,6 +2,17 @@
 
 class Program
 {
+    static void Main(string[] args)
+    {
+        string[] array1 = new string[] {"123", "13", "hello", "world", "qwe"};
+        string[] array2 = new string[array1.Length];
+
+        // Заполнение второго массива элементами из первого массива, длина которых меньше или равна 3
+        SecondArrayWithIF(array1, array2);
+
+        // Вывод элементов второго массива на консоль
+        PrintArray(array2);
+    }
 
     // Метод, который заполняет второй массив элементами из первого массива, длина которых меньше или равна 3
     static void SecondArrayWithIF(string[] array1, string[] array2)
